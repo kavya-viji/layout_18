@@ -1,0 +1,458 @@
+.header .wrapper
+{
+width:100%;
+margin:auto;
+}
+.about .wrapper
+{
+width:90%;
+margin:auto;
+}
+.text .wrapper
+{
+width:90%;
+margin:auto;
+}
+.team .wrapper
+{
+width:90%;
+margin:auto;
+}
+.money .wrapper
+{
+width:90%;
+margin:auto;
+}
+.customer .wrapper
+{
+width:90%;
+margin:auto;
+}
+.icon .wrapper
+{
+width:90%;
+margin:auto;
+}
+.footer .wrapper
+{
+width:100%;
+margin:auto;
+}
+.header
+{
+	background-color:burlywood;
+	height:100px;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .a
+{
+	text-align:center;
+	background-color:crimson;
+	height:50px;
+	width:10%;
+	margin-top:25px;
+}
+.header .header-fc .b
+{
+	text-align:center;
+	background-color:darkblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .c
+{
+	text-align:center;	
+	background-color:crimson;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .d
+{
+	text-align:center;
+	background-color:darkblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .e
+{
+	text-align:center;	
+	background-color:crimson;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .f
+{
+	text-align:center;	
+	background-color:darkblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .g
+{
+	text-align:center;	
+	background-color:crimson;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .h
+{
+	text-align:center;	
+	background-color:darkblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .i
+{
+	text-align:center;	
+	background-color:crimson;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .j
+{
+	text-align:center;	
+	background-color:darkblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;
+}
+.about
+{
+	background-color:pink;
+	height:300px;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.about .about-fc .new
+{
+	text-align:center;
+	background-color:cyan;
+	height:200px;
+	width:50%;
+	margin-top:50px;
+}
+.text
+{
+	background-color:darkseagreen;
+	height:500px;
+}
+.text .text-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.text .text-fc .image
+{
+	text-align:center;
+	background-color:orchid;
+	height:400px;
+	width:40%;
+	margin-top:50px;
+}
+.text .text-fc .para
+{
+	text-align:center;
+	background-color:orchid;
+	height:400px;
+	width:40%;
+	margin-top:50px;	
+}
+.team
+{
+	background-color:powderblue;
+	height:900px;
+}
+.team .team-fc
+{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
+.team .team-fc .box_a
+{
+	text-align:center;
+	background-color:gray;
+	height:200px;
+	width:80%;
+	margin-top:100px;
+}
+.team .team-fc .box_b
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:400px;
+	width:30%;
+	margin-top:100px;	
+}
+.team .team-fc .box_c
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:400px;
+	width:30%;
+	margin-top:100px;
+}
+.team .team-fc .box_d
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:400px;
+	width:30%;
+	margin-top:100px;	
+}
+.money
+{
+	background-color:lightgreen;
+	height:400px;
+}
+.money .money-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.money .money-fc .box_a
+{
+	text-align:center;
+	background-color:mistyrose;
+	height:300px;
+	width:20%;
+	margin-top:50px;
+}
+.money .money-fc .box_b
+{
+	text-align:center;
+	background-color:mistyrose;
+	height:300px;
+	width:20%;
+	margin-top:50px;	
+}
+.money .money-fc .box_c
+{
+	text-align:center;
+	background-color:mistyrose;
+	height:300px;
+	width:20%;
+	margin-top:50px;
+}
+.money .money-fc .box_d
+{
+	text-align:center;
+	background-color:mistyrose;
+	height:300px;
+	width:20%;
+	margin-top:50px;	
+}
+.customer
+{
+	background-color:plum;
+	height:500px;
+}
+.customer .customer-fc
+{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
+.customer .customer-fc .box_a
+{
+	text-align:center;
+	background-color:lavender;
+	height:200px;
+	width:70%;
+	margin-top:33px;
+}
+.customer .customer-fc .box_b
+{
+	text-align:center;
+	background-color:purple;
+	height:200px;
+	width:40%;
+	margin-top:33px;	
+}
+.customer .customer-fc .box_c
+{
+	text-align:center;
+	background-color:purple;
+	height:200px;
+	width:40%;
+	margin-top:33px;
+}
+.icon
+{
+	background-color:sandybrown;
+	height:200px;
+}
+.icon .icon-fc
+{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
+.icon .icon-fc .box_a
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;
+}
+.icon .icon-fc .box_b
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;	
+}
+.icon .icon-fc .box_c
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;
+}
+.icon .icon-fc .box_d
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;
+}
+.icon .icon-fc .box_e
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;	
+}
+.icon .icon-fc .box_f
+{
+	text-align:center;
+	background-color:skyblue;
+	height:100px;
+	width:15%;
+	margin-top:50px;
+}
+.footer
+{
+	height:400px;
+	background-color:wheat;
+}
+.footer .footer-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.footer .footer-fc .copyright
+{
+	margin-top:50px;
+	background-color:thistle;
+	width:20%;
+	height:300px;
+	text-align:center;
+}
+.footer .footer-fc .map
+{
+	background-color:thistle;
+	width:20%;
+	height:300px;
+	margin-top:50px;
+    text-align:center;
+}
+.footer .footer-fc .phone
+{
+	background-color:thistle;
+	width:20%;
+	height:300px;
+	margin-top:50px;
+	text-align:center;
+}
+.footer .footer-fc .email
+{
+	margin-top:50px;
+	background-color:thistle;
+	width:20%;
+	height:300px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
